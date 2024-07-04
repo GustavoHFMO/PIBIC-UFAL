@@ -5,7 +5,7 @@
 
 
  ### Sistema Híbrido para Previsão de Séries Temporais Meteorológicas em Penedo, Alagoas
- - **Aluno:** Elmo Araújo Filho
+ - **Aluno:** ´Elmo Araújo Filho´
  - Jupyter Notebook: [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Notebook%20-%20Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo.ipynb)
  - Bases de dados usadas: [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/tree/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Datasets)
 
