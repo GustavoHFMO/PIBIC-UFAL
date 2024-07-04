@@ -1,5 +1,5 @@
 # PIBIC-UFAL
- Repositório de códigos dos projetos de pesquisa em Inteligência Artificial desenvolvidos no curso de Sistemas de Informação da Universidade Federal de Alagoas (UFAL). [[Link de Acesso]](https://sigaa.sig.ufal.br/sigaa/public/docente/pesquisa.jsf?siape=1244933)
+ Repositório de códigos dos projetos de pesquisa em Inteligência Artificial desenvolvidos no curso de Sistemas de Informação (SI) da Universidade Federal de Alagoas (UFAL). [[Link de Acesso]](https://sigaa.sig.ufal.br/sigaa/public/docente/pesquisa.jsf?siape=1244933)
 
  ## Ciclo 2023-2024: Sistemas Preditivos baseados em Aprendizagem de Máquina para Previsão de Fluxos de Dados
 
