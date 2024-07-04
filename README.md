@@ -11,8 +11,8 @@
 
  ### Modelos de Aprendizado de Máquina para Previsão de COVID-19: Uma Abordagem Ensemble Aplicada ao Estado de Alagoas
  - **Aluno:** José Lucas Bispo dos Santos
- - **Jupyter Notebook do Código Desenvolvido** [[Link]]([https://sigaa.sig.ufal.br/sigaa/public/docente/pesquisa.jsf?siape=1244933](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Ensemble%20-%20Covid%20-%20Lucas/Notebook%20-%20Ensemble%20-%20Covid%20-%20Lucas.ipynb)
- - **Gerador de bases de COVID para Alagoas:** [[Link]]([[https://sigaa.sig.ufal.br/sigaa/public/docente/pesquisa.jsf?siape=1244933](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Ensemble%20-%20Covid%20-%20Lucas/Notebook%20-%20Ensemble%20-%20Covid%20-%20Lucas.ipynb)](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Ensemble%20-%20Covid%20-%20Lucas/Notebook%20-%20Gerador%20das%20S%C3%A9ries%20de%20Covid.ipynb)
- - **Bases de dados usadas:** [[Link]]([https://github.com/GustavoHFMO/PIBIC-UFAL/tree/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Datasets](https://github.com/GustavoHFMO/PIBIC-UFAL/tree/main/Ensemble%20-%20Covid%20-%20Lucas/BASES%20DE%20DADOS)
+ - **Jupyter Notebook do Código Desenvolvido** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Ensemble%20-%20Covid%20-%20Lucas/Notebook%20-%20Ensemble%20-%20Covid%20-%20Lucas.ipynb)
+ - **Gerador de bases de COVID para Alagoas:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Ensemble%20-%20Covid%20-%20Lucas/Notebook%20-%20Gerador%20das%20Séries%20de%20Covid.ipynb)
+ - **Bases de dados usadas:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/tree/main/Ensemble%20-%20Covid%20-%20Lucas/BASES%20DE%20DADOS)
  
 
