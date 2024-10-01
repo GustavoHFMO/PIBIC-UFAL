@@ -7,7 +7,7 @@
  - **Aluno:** `Elmo Araújo Filho`
  - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Notebook%20-%20Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo.ipynb)
  - **Bases de dados usadas:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/tree/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Datasets)
- - **Publicação:** > ARAUJO FILHO, E. ; SANTOS, J. L. B. ; OLIVEIRA, M. G. F. M. ; OLIVEIRA, A. C. F. M. ; OLIVEIRA, G. H. F. M. . Hybrid System for Forecasting Meteorological Time Series in Penedo, Alagoas. In: ENIAC, 2024, Belém. Encontro Nacional de Inteligência Artificial e Computacional, 2024. (Aceito para Publicação)
+ > ARAUJO FILHO, E. ; SANTOS, J. L. B. ; OLIVEIRA, M. G. F. M. ; OLIVEIRA, A. C. F. M. ; OLIVEIRA, G. H. F. M. . Hybrid System for Forecasting Meteorological Time Series in Penedo, Alagoas. In: ENIAC, 2024, Belém. Encontro Nacional de Inteligência Artificial e Computacional, 2024. (Aceito para Publicação)
 
  ### 2. Modelos de Aprendizado de Máquina para Previsão de COVID-19: Uma Abordagem Ensemble Aplicada ao Estado de Alagoas
  - **Aluno:** `José Lucas Bispo dos Santos`
