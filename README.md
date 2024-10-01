@@ -4,6 +4,7 @@
  ## Ciclo 2024-2025: Desenvolvimento de um Sistema Adaptativo para Previsão em Fluxos de Dados Dinâmicos
  - **Aluno:** `Liedson Danubio Oliveira Leite`
  - **Aluno:** `Gabriel Ferreira Sarmento`
+ - **ANDAMENTO**
 
 
  ## Ciclo 2023-2024: Sistemas Preditivos baseados em Aprendizagem de Máquina para Previsão de Fluxos de Dados
