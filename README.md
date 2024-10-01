@@ -1,6 +1,11 @@
 # PIBIC-UFAL
  Repositório de códigos dos projetos de pesquisa em Inteligência Artificial desenvolvidos no curso de Sistemas de Informação (SI) da Universidade Federal de Alagoas (UFAL). [[Link de Acesso]](https://sigaa.sig.ufal.br/sigaa/public/docente/pesquisa.jsf?siape=1244933)
 
+ ## Ciclo 2024-2025: Desenvolvimento de um Sistema Adaptativo para Previsão em Fluxos de Dados Dinâmicos
+ - **Aluno:** `Liedson Danubio Oliveira Leite`
+ - **Aluno:** `Gabriel Ferreira Sarmento`
+
+
  ## Ciclo 2023-2024: Sistemas Preditivos baseados em Aprendizagem de Máquina para Previsão de Fluxos de Dados
 
  ### 1. Sistema Híbrido para Previsão de Séries Temporais Meteorológicas em Penedo, Alagoas
