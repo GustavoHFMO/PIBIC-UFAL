@@ -13,7 +13,7 @@
  - **Aluno:** `Elmo Araújo Filho`
  - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Notebook%20-%20Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo.ipynb)
  - **Bases de dados usadas:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/tree/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Datasets)
- -  **Publicação:** [[Link]](https://sol.sbc.org.br/index.php/eniac/article/view/33812)
+ -  **Publicação:** [[Link]](https://sol.sbc.org.br/index.php/eniac/article/view/33813/33604)
  -  **Citação:**
  > ARAUJO FILHO, E. ; SANTOS, J. L. B. ; OLIVEIRA, M. G. F. M. ; OLIVEIRA, A. C. F. M. ; OLIVEIRA, G. H. F. M. . Hybrid System for Forecasting Meteorological Time Series in Penedo, Alagoas. In: ENIAC, 2024, Belém. Encontro Nacional de Inteligência Artificial e Computacional, 2024.
 
@@ -22,7 +22,7 @@
  - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Ensemble%20-%20Covid%20-%20Lucas/Notebook%20-%20Ensemble%20-%20Covid%20-%20Lucas.ipynb)
  - **Gerador de bases de COVID para Alagoas:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Ensemble%20-%20Covid%20-%20Lucas/Notebook%20-%20Gerador%20das%20Séries%20de%20Covid.ipynb)
  - **Bases de dados usadas:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/tree/main/Ensemble%20-%20Covid%20-%20Lucas/BASES%20DE%20DADOS)
- - **Publicação:** [[Link]](https://sol.sbc.org.br/index.php/eniac/article/view/33812)
+ - **Publicação:** [[Link]](https://sol.sbc.org.br/index.php/eniac/article/view/33812/33603)
  - **Citação:**
  > SANTOS, J. L. B. ; ARAUJO FILHO, E. ; OLIVEIRA, M. G. F. M. ; OLIVEIRA, A. C. F. M. ; OLIVEIRA, G. H. F. M. . Machine Learning Models for Predicting COVID-19: An Ensemble Approach Applied to the State of Alagoas. In: ENIAC, 2024, Belém. Encontro Nacional de Inteligência Artificial e Computacional, 2024.
  
