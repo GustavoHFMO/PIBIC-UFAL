@@ -5,7 +5,7 @@
 
  ### 1. OASIS: An Online Adaptive System with Incremental Selection for Concept Drift in Financial Time Series Forecasting
  - **Aluno:** `Liedson Danubio Oliveira Leite`
- - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Notebook%20-%20Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo.ipynb)
+ - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/PIBIC-2024-25-Drift-Adaptation)
  -  **Publicação:** [[Link]](https://sol.sbc.org.br/index.php/eniac/article/view/38818/38591)
  -  **Citação:**
  > LEITE, Liedson D. O.; SARMENTO, Gabriel F.; OLIVEIRA, Gustavo H. F. de M.. OASIS: An Online Adaptive System with Incremental Selection for Concept Drift in Financial Time Series Forecasting. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 22. , 2025, Fortaleza/CE. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2025 . p. 1376-1387. ISSN 2763-9061. DOI: https://doi.org/10.5753/eniac.2025.11799.
@@ -13,7 +13,7 @@
 
 ### 2. A Reactive One-Shot Reset Approach for Financial Time Series Forecasting under Concept Drift
  - **Aluno:** `Gabriel Ferreira Sarmento`
- - **Jupyter Notebook:** [[Link]](-)
+ - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/Drift-Detection-PIBIC)
   - **ANDAMENTO**
 
 
