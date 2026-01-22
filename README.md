@@ -2,9 +2,19 @@
  Repositório de códigos dos projetos de pesquisa em Inteligência Artificial desenvolvidos no curso de Sistemas de Informação (SI) da Universidade Federal de Alagoas (UFAL). [[Link de Acesso]](https://sigaa.sig.ufal.br/sigaa/public/docente/pesquisa.jsf?siape=1244933)
 
  ## Ciclo 2024-2025: Desenvolvimento de um Sistema Adaptativo para Previsão em Fluxos de Dados Dinâmicos
+
+ ### 1. OASIS: An Online Adaptive System with Incremental Selection for Concept Drift in Financial Time Series Forecasting
  - **Aluno:** `Liedson Danubio Oliveira Leite`
+ - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/PIBIC-UFAL/blob/main/Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo/Notebook%20-%20Sistema%20H%C3%ADbrido%20-%20Dados%20de%20Clima%20-%20Elmo.ipynb)
+ -  **Publicação:** [[Link]](https://sol.sbc.org.br/index.php/eniac/article/view/38818/38591)
+ -  **Citação:**
+ > LEITE, Liedson D. O.; SARMENTO, Gabriel F.; OLIVEIRA, Gustavo H. F. de M.. OASIS: An Online Adaptive System with Incremental Selection for Concept Drift in Financial Time Series Forecasting. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 22. , 2025, Fortaleza/CE. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2025 . p. 1376-1387. ISSN 2763-9061. DOI: https://doi.org/10.5753/eniac.2025.11799.
+> 
+
+### 2. A Reactive One-Shot Reset Approach for Financial Time Series Forecasting under Concept Drift
  - **Aluno:** `Gabriel Ferreira Sarmento`
- - **ANDAMENTO**
+ - **Jupyter Notebook:** [[Link]](-)
+  - **ANDAMENTO**
 
 
  ## Ciclo 2023-2024: Sistemas Preditivos baseados em Aprendizagem de Máquina para Previsão de Fluxos de Dados
