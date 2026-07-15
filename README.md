@@ -14,8 +14,9 @@
 ### 2. A Reactive One-Shot Reset Approach for Financial Time Series Forecasting under Concept Drift
  - **Aluno:** `Gabriel Ferreira Sarmento`
  - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/Drift-Detection-PIBIC)
-  - **ANDAMENTO**
-
+ - **Publicação:** [[Link]](https://doi.org/10.5753/reic.2026.8438)
+ - **Citação:**
+ > SARMENTO, Gabriel F.; LEITE, Liedson D. O.; OLIVEIRA, Gustavo H. F. de M. Uma Abordagem de Reinicialização Reativa One-Shot para Previsão de Séries Temporais Financeiras sob Mudança de Conceito. *Revista Eletrônica de Iniciação Científica em Computação*, v. 24, p. 411–417, 2026. DOI: https://doi.org/10.5753/reic.2026.8438.
 
  ## Ciclo 2023-2024: Sistemas Preditivos baseados em Aprendizagem de Máquina para Previsão de Fluxos de Dados
 
