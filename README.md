@@ -8,15 +8,15 @@
  - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/PIBIC-2024-25-Drift-Adaptation)
  -  **Publicação:** [[Link]](https://sol.sbc.org.br/index.php/eniac/article/view/38818/38591)
  -  **Citação:**
- > LEITE, Liedson D. O.; SARMENTO, Gabriel F.; OLIVEIRA, Gustavo H. F. de M.. OASIS: An Online Adaptive System with Incremental Selection for Concept Drift in Financial Time Series Forecasting. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 22. , 2025, Fortaleza/CE. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2025 . p. 1376-1387. ISSN 2763-9061. DOI: https://doi.org/10.5753/eniac.2025.11799.
+ > LEITE, Liedson D. O.; SARMENTO, Gabriel F.; OLIVEIRA, Gustavo H. F. de M.. OASIS: An Online Adaptive System with Incremental Selection for Concept Drift in Financial Time Series Forecasting. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 22. , 2025, Fortaleza/CE. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2025 . p. 1376-1387. ISSN 2763-9061. 
 > 
 
 ### 2. A Reactive One-Shot Reset Approach for Financial Time Series Forecasting under Concept Drift
  - **Aluno:** `Gabriel Ferreira Sarmento`
  - **Jupyter Notebook:** [[Link]](https://github.com/GustavoHFMO/Drift-Detection-PIBIC)
- - **Publicação:** [[Link]](https://doi.org/10.5753/reic.2026.8438)
+ - **Publicação:** [[Link]](https://journals-sol.sbc.org.br/index.php/reic/article/view/8438/4112)
  - **Citação:**
- > SARMENTO, Gabriel F.; LEITE, Liedson D. O.; OLIVEIRA, Gustavo H. F. de M. Uma Abordagem de Reinicialização Reativa One-Shot para Previsão de Séries Temporais Financeiras sob Mudança de Conceito. *Revista Eletrônica de Iniciação Científica em Computação*, v. 24, p. 411–417, 2026. DOI: https://doi.org/10.5753/reic.2026.8438.
+ > SARMENTO, Gabriel F.; LEITE, Liedson D. O.; OLIVEIRA, Gustavo H. F. de M. Uma Abordagem de Reinicialização Reativa One-Shot para Previsão de Séries Temporais Financeiras sob Mudança de Conceito. *Revista Eletrônica de Iniciação Científica em Computação*, v. 24, p. 411–417, 2026. 
 
  ## Ciclo 2023-2024: Sistemas Preditivos baseados em Aprendizagem de Máquina para Previsão de Fluxos de Dados
 
